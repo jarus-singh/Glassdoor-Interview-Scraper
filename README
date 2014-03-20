@@ -1,0 +1,1 @@
+The python code in this repository accesses RSS feeds from http://www.glassdoor.com/ and scrapes information about job interviews that people have had including but not limited to how difficult the interview was, how positive or negative the experience was and whether an offer was extended.
